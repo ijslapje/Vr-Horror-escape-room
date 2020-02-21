@@ -113,7 +113,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 1
-  controlID: 111
+  controlID: 138
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 112
+  controlID: 139
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,7 +163,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 34
+  controlID: 60
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -188,7 +188,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 222}
   m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
-  controlID: 35
+  controlID: 61
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -292,8 +292,8 @@ MonoBehaviour:
     y: 0
     width: 590
     height: 1029
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -410,23 +410,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4c440000
-      m_LastClickedID: 17484
-      m_ExpandedIDs: a4ecffffeef9fffff6f9fffffcf9ffff0cfbffff10fbffff18fbffff1efbffff54fbffff5efbffff6afbffff6efbffff78fbffff48440000d2440000e4440000
+      m_SelectedIDs: 62440000
+      m_LastClickedID: 17506
+      m_ExpandedIDs: 54fbffff5efbffff6afbffff6efbffff78fbffff484400004c44000050440000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Canvas
-        m_OriginalName: Canvas
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -4956
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -498,9 +498,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -7.285161, y: -0.47621566, z: -1.7562749}
+    m_Target: {x: 2.9006515, y: -2.0223913, z: 7.391382}
     speed: 2
-    m_Value: {x: -7.285161, y: -0.47621566, z: -1.7562749}
+    m_Value: {x: 2.9006515, y: -2.0223913, z: 7.391382}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -529,13 +529,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.082965545, y: -0.7204537, z: 0.08755135, w: 0.68296844}
+    m_Target: {x: 0.1799185, y: 0.21439883, z: -0.040189914, w: 0.95921624}
     speed: 2
-    m_Value: {x: 0.082963556, y: -0.7204364, z: 0.08754925, w: 0.68295205}
+    m_Value: {x: 0.17991415, y: 0.21439365, z: -0.040188942, w: 0.95919305}
   m_Size:
-    m_Target: 14.778089
+    m_Target: 11.450381
     speed: 2
-    m_Value: 14.778089
+    m_Value: 10.957303
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -690,19 +690,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Sounds
   m_ViewMode: 1
   m_StartGridSize: 71
   m_LastFolders:
-  - Assets
+  - Assets/Sounds
   m_LastFoldersGridSize: 71
   m_LastProjectPath: D:\Documents\GitHub\Vr-Horror-escape-room\VR game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ae310000
-    m_LastClickedID: 12718
+    scrollPos: {x: 0, y: 154}
+    m_SelectedIDs: 62480000
+    m_LastClickedID: 18530
     m_ExpandedIDs: 00000000ae3100006e3400004a3c00009a3c0000f83e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -933,7 +933,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 17476
+  m_LastSelectedObjectID: -1516
 --- !u!114 &22
 MonoBehaviour:
   m_ObjectHideFlags: 52

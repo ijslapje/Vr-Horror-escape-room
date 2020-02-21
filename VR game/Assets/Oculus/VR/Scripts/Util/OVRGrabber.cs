@@ -47,6 +47,11 @@ public class OVRGrabber : MonoBehaviour
     // Child/attached transforms of the grabber, indicating where to snap held objects to (if you snap them).
     // Also used for ranking grab targets in case of multiple candidates.
     [SerializeField]
+
+    public OVRInput.Controller GetController() {
+        return m_controller;
+    }
+    
     protected Transform m_gripTransform = null;
     // Child/attached Colliders to detect candidate grabbable objects.
     [SerializeField]
