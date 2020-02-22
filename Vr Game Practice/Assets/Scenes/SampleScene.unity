@@ -546,6 +546,7 @@ MeshFilter:
   m_GameObject: {fileID: 507842422}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD:Vr Game Practice/Assets/Scenes/SampleScene.unity
+<<<<<<< HEAD:Vr Game Practice/Assets/Scenes/SampleScene.unity
 --- !u!82 &507842429
 AudioSource:
   m_ObjectHideFlags: 0
@@ -756,6 +757,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> parent of 9c6a08d... Added Transparend hands and text:VR game/Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of 9c6a08d... Added Transparend hands and text:VR game/Assets/Scenes/SampleScene.unity
 --- !u!1 &774859942
