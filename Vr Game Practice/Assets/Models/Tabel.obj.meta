@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0cfaf5e853ad3874e9edae6e91e8561e
+=======
+guid: f5e85fa33d8d53846a87e5bf2a9a171a
+>>>>>>> VR-Practice
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
