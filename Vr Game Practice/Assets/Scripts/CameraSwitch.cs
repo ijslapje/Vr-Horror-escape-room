@@ -10,11 +10,11 @@ public class CameraSwitch : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.KeypadMinus)){
+        if(Input.GetKeyDown(KeyCode.Q)){
             VRcam.SetActive(true);
             mouseCam.SetActive(false);
         }
-        else if(Input.GetKeyDown(KeyCode.KeypadPlus)){
+        else if(Input.GetKeyDown(KeyCode.W)){
             VRcam.SetActive(false);
             mouseCam.SetActive(true);
         }
