@@ -29,7 +29,7 @@ public class DrawerLimit : MonoBehaviour
         //var pos = this.transform.localPosition;
         //pos.x = Mathf.Clamp(this.transform.localPosition.x, this.transform.position.x - 1, (this.transform.position.x - 1) + this.transform.localScale.x / 2);
         //this.transform.localPosition = pos;
-        this.transform.rotation = Quaternion.Euler(-90f, 0f, 0f);
+        this.transform.rotation = Quaternion.Euler(-90f, 0f, -90f);
 
         DrawerSpace();
 

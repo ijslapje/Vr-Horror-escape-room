@@ -68,22 +68,22 @@ public class CharacterCameraConstraint : MonoBehaviour
 	void Awake ()
 	{
 		_character = GetComponent<CapsuleCollider>();
-		_simplePlayerController = GetComponent<SimpleCapsuleWithStickMovement>();
+		//_simplePlayerController = GetComponent<SimpleCapsuleWithStickMovement>();
 	}
 
 	private void Start()
 	{
 	}
 
-	void OnEnable()
-	{
-        _simplePlayerController.CameraUpdated += _cameraUpdateAction;
-	}
+	//void OnEnable()
+	//{
+ //       _simplePlayerController.CameraUpdated += _cameraUpdateAction;
+	//}
 
-	void OnDisable()
-	{
-        _simplePlayerController.CameraUpdated -= _cameraUpdateAction;
-	}
+	//void OnDisable()
+	//{
+ //       _simplePlayerController.CameraUpdated -= _cameraUpdateAction;
+	//}
 
     /// <summary>
     /// This method is the handler for the PlayerController.CameraUpdated event, which is used
