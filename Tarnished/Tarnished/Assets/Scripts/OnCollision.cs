@@ -5,10 +5,12 @@ using UnityEngine;
 public class OnCollision : MonoBehaviour
 {
     public Collider coll;
+    public static bool opslot;
 
     void Start()
     {
         coll = GetComponent<Collider>();
+        opslot = true;
     }
 
     // Disables gravity on all rigidbodies entering this collider.
@@ -17,5 +19,7 @@ public class OnCollision : MonoBehaviour
         if (other.attachedRigidbody)
             other.attachedRigidbody.useGravity = true;
             other.attachedRigidbody.isKinematic = false;
+
+        opslot = false;
     }
 }
