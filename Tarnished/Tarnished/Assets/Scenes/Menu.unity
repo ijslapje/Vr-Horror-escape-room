@@ -2920,7 +2920,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CLOSE BOTH HANDS TO BEGIN
+  m_text: GRAB THE LANTERN TO BEGIN
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e1744d64d6bc30e49b48791e662cc090, type: 2}
   m_sharedMaterial: {fileID: 6529994313239779720, guid: e1744d64d6bc30e49b48791e662cc090,
