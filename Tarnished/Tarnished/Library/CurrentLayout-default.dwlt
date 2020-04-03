@@ -141,8 +141,12 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   controlID: 63
+=======
+  controlID: 105
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
 --- !u!114 &6
 =======
   controlID: 185
@@ -171,8 +175,12 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   controlID: 68
+=======
+  controlID: 106
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
 --- !u!114 &7
 =======
   controlID: 186
@@ -202,8 +210,12 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   controlID: 69
+=======
+  controlID: 107
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
 --- !u!114 &8
 =======
   controlID: 187
@@ -311,8 +323,8 @@ MonoBehaviour:
 <<<<<<< Updated upstream
     width: 533
     height: 1029
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 21}
 =======
     width: 500
@@ -372,6 +384,7 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_HBaseRangeMin: -499.5
     m_HBaseRangeMax: 499.5
@@ -383,6 +396,12 @@ MonoBehaviour:
     m_VBaseRangeMin: -317
     m_VBaseRangeMax: 317
 >>>>>>> Stashed changes
+=======
+    m_HBaseRangeMin: -399.6
+    m_HBaseRangeMax: 399.6
+    m_VBaseRangeMin: -286.4
+    m_VBaseRangeMax: 286.4
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -452,8 +471,9 @@ MonoBehaviour:
     m_TreeViewState:
 <<<<<<< Updated upstream
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 6a420000
+      m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 147dffffb87effffa481ffffa683ffffda84ffffacacffffccacffffecacffff10adffff74adffff2caffffff6b1ffffc2f1ffffc6f1ffffc8f1ffffd0f1ffffe0f1ffffe2f1ffffe6f1ffff08f3ffff16f8ffff3af9ffff70fbffffa4450000a84500002a4600003e46000092470000ca500000106300004463000058630000
 =======
       scrollPos: {x: 0, y: 6}
@@ -461,20 +481,23 @@ MonoBehaviour:
       m_LastClickedID: 29942
       m_ExpandedIDs: 9e49ffffdc7bffffc6740000447500005a750000e0750000bc76000000770000
 >>>>>>> Stashed changes
+=======
+      m_ExpandedIDs: 4ed2ffff52d6ffff52d8ffffcae5ffff02e8ffff70fbffff6039000064390000e0390000f43900006c3a0000d04a0000ee4d00006a4e00000e530000285300001c540000205400009c540000b0540000ac550000f255000044560000
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Bootleg Kast met Slot
+        m_OriginalName: Bootleg Kast met Slot
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 22084
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -546,6 +569,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_Target: {x: 0.9274836, y: 1.9211495, z: -1.8484678}
     speed: 2
@@ -555,6 +579,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -17.725649, y: -0.56499314, z: 6.9263363}
 >>>>>>> Stashed changes
+=======
+    m_Target: {x: 1.0049583, y: 1.4764594, z: -0.48333144}
+    speed: 2
+    m_Value: {x: 1.0049583, y: 1.4764594, z: -0.48333144}
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -600,13 +629,18 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_Target: {x: -0.00051256106, y: 0.98792, z: -0.15629502, w: 0.0012539106}
+=======
+    m_Target: {x: 0.28381094, y: 0.2511222, z: -0.078342676, w: 0.9222507}
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
     speed: 2
-    m_Value: {x: -0.0009812391, y: 0.98771393, z: -0.15626028, w: -0.0017094953}
+    m_Value: {x: 0.2837691, y: 0.2510852, z: -0.07833113, w: 0.92211473}
   m_Size:
-    m_Target: 2.690543
+    m_Target: 3.0204577
     speed: 2
+<<<<<<< HEAD
     m_Value: 2.990543
 =======
     m_Target: {x: 0.060056563, y: -0.4836947, z: 0.032671947, w: 0.87279016}
@@ -617,6 +651,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 15.518965
 >>>>>>> Stashed changes
+=======
+    m_Value: 2.7204578
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -662,10 +699,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 514.4
+    x: 495.2
     y: 73.6
-    width: 999
-    height: 737
+    width: 960
+    height: 733
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &18
 MonoBehaviour:
@@ -785,8 +822,9 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 1
+    m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     - Assets/Scenes
   m_ViewMode: 1
@@ -800,12 +838,20 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/AssetsHallway/Scipts
 >>>>>>> Stashed changes
+=======
+    - Assets/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 71
+  m_LastFolders:
+  - Assets/Scripts
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
   m_LastFoldersGridSize: 71
   m_LastProjectPath: E:\School\GameDev\Vr-Horror-escape-room\Tarnished\Tarnished
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_SelectedIDs: 18400000
     m_LastClickedID: 16408
@@ -815,6 +861,11 @@ MonoBehaviour:
     m_LastClickedID: 31386
     m_ExpandedIDs: 00000000807a0000827a0000847a0000867a00008a7a000000ca9a3b
 >>>>>>> Stashed changes
+=======
+    m_SelectedIDs: 7e3f0000
+    m_LastClickedID: 16254
+    m_ExpandedIDs: 00000000343f0000363f0000383f00003a3f0000623f000000ca9a3b
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -842,11 +893,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_ExpandedIDs: 00000000b43f0000b63f0000b83f0000ba3f0000
 =======
     m_ExpandedIDs: 00000000807a0000827a0000847a0000867a0000
 >>>>>>> Stashed changes
+=======
+    m_ExpandedIDs: 00000000343f0000363f0000383f00003a3f0000
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1086,8 +1141,12 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_LastVerticalScrollValue: 742
+=======
+  m_LastVerticalScrollValue: 0
+>>>>>>> parent of b28ced94... Fixed Titel and Test Scene added tested stuff
 --- !u!114 &22
 =======
   m_LastVerticalScrollValue: 0
