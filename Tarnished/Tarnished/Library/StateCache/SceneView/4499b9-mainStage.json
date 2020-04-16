@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":false,"pivot":{"x":0.848741352558136,"y":1.6840662956237794,"z":-0.9742300510406494},"rotation":{"x":0.21235154569149018,"y":-0.6027678847312927,"z":0.17325244843959809,"w":0.7498705387115479},"size":0.6002191305160523,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":false,"pivot":{"x":-1.998471975326538,"y":3.236999034881592,"z":-0.06965189427137375},"rotation":{"x":-0.20725837349891663,"y":0.770899772644043,"z":-0.3090786337852478,"w":-0.5169413685798645},"size":0.6073950529098511,"orthographic":false}
+>>>>>>> SwenBranch
