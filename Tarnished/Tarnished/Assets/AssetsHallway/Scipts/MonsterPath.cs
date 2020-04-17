@@ -51,13 +51,13 @@ public class MonsterPath : MonoBehaviour
                 {
                     anim.SetBool("walking", false);
                     source.volume = 0f;
-                    speed = 0.1f;
+                    speed = 0.05f;
                 }
                 else if (current != 2)
                 {
                     anim.SetBool("walking", true);
                     source.volume = 0.7f;
-                    speed = 1f;
+                    speed = 0.2f;
                 }
             }
             else current = (current + 1) % target.Length;

@@ -974,7 +974,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 141621915}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.153, y: 0.6526308, z: 3.323}
+  m_LocalPosition: {x: 0.086, y: 0.6526308, z: 3.41}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2146491863}
@@ -1042,7 +1042,7 @@ MonoBehaviour:
   - {fileID: 630791986}
   - {fileID: 1368105979}
   - {fileID: 2095677841}
-  speed: 1
+  speed: 0.1
   isWalking: 1
   isRunning: 0
   targetMaxSize: 4
@@ -3032,7 +3032,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.8298863, b: 0.5424528, a: 1}
-  m_Intensity: 0.8
+  m_Intensity: 0.4
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -7364,7 +7364,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.8298863, b: 0.5424528, a: 1}
-  m_Intensity: 0.8
+  m_Intensity: 0.4
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
