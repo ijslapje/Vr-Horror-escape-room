@@ -4,19 +4,11 @@ using UnityEngine;
 
 public class Levers : MonoBehaviour
 {
-
-    public GameObject lever1;
-    public GameObject lever2;
-    public GameObject lever3;
-    public GameObject lever4;
-    public GameObject lever5;
-
     public GameObject drawerClone;
     public GameObject drawerReal;
 
     public AudioSource source;
     public AudioClip drawerSound;
-    public AudioClip leverUp;
 
     // Start is called before the first frame update
     void Start()
@@ -27,52 +19,31 @@ public class Levers : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (lever1.transform.position.x == 0.34f || lever2.transform.position.x == 0.34f || lever3.transform.position.x == 0.34f
-                || lever4.transform.position.x == 0.34f || lever5.transform.position.x == 0.34f)
-        {
-            source.pitch = 1;
-            source.PlayOneShot(leverUp);
-        }
 
-        if (lever1.transform.position.x == 0.33f || lever2.transform.position.x == 0.33f || lever3.transform.position.x == 0.33f
-        || lever4.transform.position.x == 0.33f || lever5.transform.position.x == 0.33f)
+        if (SetRanTex.ranCombi == 0)
         {
-            source.pitch = -1;
-            source.PlayOneShot(leverUp);
-        }
-
-        {
-
-            if (SetRanTex.ranCombi == 0)
-        {
-            if(lever1.transform.position.x >= 0.34f && lever2.transform.position.x >= 0.34f && lever3.transform.position.x <= 0.33f 
-                && lever4.transform.position.x >= 0.34f && lever5.transform.position.x <= 0.33f)
+            if (leverUp.lever1up == true && leverUp.lever2up == true && leverDown.lever3down == true && leverUp.lever4up == true && leverDown.lever5down == true)
             {
                 drawerClone.gameObject.SetActive(false);
                 drawerReal.gameObject.SetActive(true);
-                source.PlayOneShot(drawerSound);
             }
         }
 
         if (SetRanTex.ranCombi == 1)
         {
-            if (lever1.transform.position.x >= 0.34f && lever2.transform.position.x <= 0.33f && lever3.transform.position.x >= 0.34f
-                && lever4.transform.position.x <= 0.33f && lever5.transform.position.x <= 0.33f)
+            if(leverUp.lever1up == true && leverDown.lever2down == true && leverUp.lever3up == true && leverDown.lever4down == true && leverDown.lever5down == true)
             {
                 drawerClone.gameObject.SetActive(false);
                 drawerReal.gameObject.SetActive(true);
-                source.PlayOneShot(drawerSound);
             }
         }
 
         if (SetRanTex.ranCombi == 2)
         {
-            if (lever1.transform.position.x <= 0.33f && lever2.transform.position.x >= 0.34f && lever3.transform.position.x <= 0.33f
-                && lever4.transform.position.x >= 0.34f && lever5.transform.position.x >= 0.34f)
+            if (leverDown.lever1down == true && leverUp.lever2up == true && leverDown.lever3down == true && leverUp.lever4up == true && leverUp.lever5up == true)
             {
                 drawerClone.gameObject.SetActive(false);
                 drawerReal.gameObject.SetActive(true);
-                source.PlayOneShot(drawerSound);
             }
         }
     }

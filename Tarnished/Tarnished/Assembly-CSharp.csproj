@@ -70,6 +70,8 @@
     <Compile Include="Assets\AssetsHallway\Scipts\SetRanTex.cs" />
     <Compile Include="Assets\AssetsHallway\Scipts\doormove.cs" />
     <Compile Include="Assets\AssetsHallway\Scipts\flickering.cs" />
+    <Compile Include="Assets\AssetsHallway\Scipts\leverDown.cs" />
+    <Compile Include="Assets\AssetsHallway\Scipts\leverUp.cs" />
     <Compile Include="Assets\Scripts\DestroyShit.cs" />
     <Compile Include="Assets\Scripts\DrawerLimit.cs" />
     <Compile Include="Assets\Scripts\GrabShit.cs" />
