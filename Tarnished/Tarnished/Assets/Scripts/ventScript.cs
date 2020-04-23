@@ -24,9 +24,10 @@ public class ventScript : MonoBehaviour
 
         if (screwtup == false)
         {
+            Debug.Log("Hij switcht");
+
             ventclone.transform.gameObject.SetActive(false);
             vent.transform.gameObject.SetActive(true);
-
         }
     }
 }
