@@ -67,6 +67,7 @@
     <Compile Include="Assets\AssetsHallway\Scipts\Levers.cs" />
     <Compile Include="Assets\AssetsHallway\Scipts\MonsterManage.cs" />
     <Compile Include="Assets\AssetsHallway\Scipts\MonsterPath.cs" />
+    <Compile Include="Assets\AssetsHallway\Scipts\MonsterSlam.cs" />
     <Compile Include="Assets\AssetsHallway\Scipts\MonsterSounds.cs" />
     <Compile Include="Assets\AssetsHallway\Scipts\MonsterWalk.cs" />
     <Compile Include="Assets\AssetsHallway\Scipts\RandomTexture.cs" />

@@ -16,7 +16,7 @@ public class MonsterSounds : MonoBehaviour
 
     void CallAudio()
     {
-        Invoke("RandomGrunt", 10);
+        Invoke("RandomGrunt", 5);
     }
 
     void RandomGrunt()

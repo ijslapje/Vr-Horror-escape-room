@@ -10,6 +10,8 @@ public class MonsterPath : MonoBehaviour
     public AudioClip runSound;
     public AudioClip walkSound;
 
+    public GameObject MonsterSlam;
+
     public Transform[] target;
     public float speed;
 
@@ -86,6 +88,7 @@ public class MonsterPath : MonoBehaviour
             else current = (current + 1) % target.Length;
             if(current > 1)
             {
+                MonsterSlam.SetActive(true);
                 Destroy(gameObject);
             }
         }
