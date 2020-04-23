@@ -1074,6 +1074,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   doorclone: {fileID: 1900739809}
   door: {fileID: 8296172669226507657}
+  bedCollider: {fileID: 1206924815}
 --- !u!1 &141621915
 GameObject:
   m_ObjectHideFlags: 0
