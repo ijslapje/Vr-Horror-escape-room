@@ -26,6 +26,7 @@ public class ventScript : MonoBehaviour
         {
             ventclone.transform.gameObject.SetActive(false);
             vent.transform.gameObject.SetActive(true);
+
         }
     }
 }
