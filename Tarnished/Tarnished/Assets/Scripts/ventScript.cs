@@ -16,7 +16,6 @@ public class ventScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(GameObject.FindGameObjectsWithTag("screw").Length);
         if (GameObject.FindGameObjectsWithTag("screw").Length < 1)
         {
             Debug.Log("No more screws");
