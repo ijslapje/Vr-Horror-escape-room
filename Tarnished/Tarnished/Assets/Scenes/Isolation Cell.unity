@@ -5451,7 +5451,6 @@ MonoBehaviour:
   scream: {fileID: 8300000, guid: fb7b05085bf9d384398356ac7b8b6dd8, type: 3}
   Door: {fileID: 8300000, guid: 3cf4d61f2b5df774bb8e7245cc6cb427, type: 3}
   anim: {fileID: 763338850}
-  doorOpen: 0
 --- !u!1 &765731374
 GameObject:
   m_ObjectHideFlags: 0
@@ -15088,7 +15087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd4b53570b7e23d42b9641c952d8cb0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gruntSound: {fileID: 0}
+  gruntSound: {fileID: 1327978155}
   grunts:
   - {fileID: 8300000, guid: ab3c41423ca229a498acdb2eb795c831, type: 3}
   - {fileID: 8300000, guid: 543a551726d3bb544bb846154a6ecf19, type: 3}
@@ -23076,6 +23075,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 763338855}
+        m_MethodName: VentOpen
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls:
@@ -25149,9 +25159,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 2059562958}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7def691acce41ed409b7e74aae0ff038, type: 3}
+  m_Script: {fileID: 11500000, guid: fd4b53570b7e23d42b9641c952d8cb0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gruntSound: {fileID: 2059562961}
+  grunts:
+  - {fileID: 8300000, guid: fb7b05085bf9d384398356ac7b8b6dd8, type: 3}
+  - {fileID: 8300000, guid: 12b36472e8449fc4a8cfe982798d14c6, type: 3}
+  - {fileID: 8300000, guid: 5a07d52b6b38fd54e941024ba1f9e150, type: 3}
+  - {fileID: 8300000, guid: 272f1005a8bb1b84083a0bea0bd8ff29, type: 3}
 --- !u!82 &2059562961
 AudioSource:
   m_ObjectHideFlags: 0

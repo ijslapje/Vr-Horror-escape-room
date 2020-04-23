@@ -5,13 +5,12 @@ using UnityEngine.Animations;
 
 public class MonsterSlam : MonoBehaviour
 {
-
     public AudioSource source;
     public AudioClip scream;
     public AudioClip Door;
     public Animator anim;
 
-    public bool doorOpen;
+    public static bool doorOpen;
 
     // Start is called before the first frame update
     void Start()
