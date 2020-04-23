@@ -23131,7 +23131,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1900739810
 Transform:
   m_ObjectHideFlags: 0
@@ -23173,7 +23173,7 @@ HingeJoint:
   m_UseLimits: 1
   m_Limits:
     min: 0
-    max: 121.34425
+    max: 162.63799
     bounciness: 0
     bounceMinVelocity: 0.2
     contactDistance: 0
