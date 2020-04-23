@@ -14,6 +14,9 @@ TagManager:
   - lever3
   - lever4
   - lever5
+  - projectile
+  - FxTemporaire
+  - screw
   layers:
   - Default
   - TransparentFX

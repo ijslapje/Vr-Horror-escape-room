@@ -19,6 +19,8 @@ public class OnCollision : MonoBehaviour
         if (other.attachedRigidbody)
             other.attachedRigidbody.isKinematic = false;
 
-        opslot = false;
+            opslot = false;
+
+
     }
 }
