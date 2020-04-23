@@ -28,7 +28,7 @@ public class MonsterPath : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         source = GetComponent<AudioSource>();
-        speed = 0.6f;
+        speed = 0.3f;
     }
 
     // Update is called once per frame
@@ -51,7 +51,7 @@ public class MonsterPath : MonoBehaviour
             {
                 Vector3 pos = Vector3.MoveTowards(transform.position, target[current].position, speed * Time.deltaTime);
                 GetComponent<Rigidbody>().MovePosition(pos);
-                speed = 0.6f;
+                speed = 0.3f;
                 source.loop = true;
                 if (current == 2)
                 {
@@ -63,7 +63,7 @@ public class MonsterPath : MonoBehaviour
                 {
                     anim.SetBool("walking", true);
                     source.volume = 0.7f;
-                    speed = 0.6f;
+                    speed = 0.3f;
                 }
             }
             else current = (current + 1) % target.Length;

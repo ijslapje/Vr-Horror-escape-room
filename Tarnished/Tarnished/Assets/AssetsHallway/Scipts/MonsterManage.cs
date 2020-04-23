@@ -32,4 +32,9 @@ public class MonsterManage : MonoBehaviour
         source.PlayOneShot(doorslam);
         monsterRun.SetActive(true);
     }
+
+    public void DisableScript()
+    {
+        Destroy(this);
+    }
 }
