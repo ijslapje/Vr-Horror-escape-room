@@ -100,31 +100,31 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -304,7 +304,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>E:/School/GameDev/Vr-Horror-escape-room/Tarnished/Tarnished/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/Documents/GitHub/Vr-Horror-escape-room/Tarnished/Tarnished/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.7f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
