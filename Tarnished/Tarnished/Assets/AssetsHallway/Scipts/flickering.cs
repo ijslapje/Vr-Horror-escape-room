@@ -41,7 +41,7 @@ public class flickering : MonoBehaviour
                 on = true;
             }
             timer = Random.Range(0, 0.6f);
-            volume = Random.Range(0.3f, 0.5f);
+            volume = Random.Range(0.01f, 0.1f);
             lightIntens = Random.Range(0.1f, 0.5f);
         }
     }

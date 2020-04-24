@@ -5,6 +5,18 @@ TagManager:
   serializedVersion: 2
   tags:
   - Border
+  - door
+  - leverUP
+  - leverDOWN
+  - lever
+  - lever1
+  - lever2
+  - lever3
+  - lever4
+  - lever5
+  - projectile
+  - FxTemporaire
+  - screw
   layers:
   - Default
   - TransparentFX

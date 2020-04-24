@@ -8,7 +8,7 @@ public class SetRanTex : MonoBehaviour
 
     Material M_material;
     public Texture[] texCombi;
-    public int ranCombi;
+    public static int ranCombi;
 
     public static int Tex1;
     public static int Tex2;

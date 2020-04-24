@@ -17,9 +17,10 @@ public class OnCollision : MonoBehaviour
     void OnTriggerEnter(Collider other)
     {
         if (other.attachedRigidbody)
-            other.attachedRigidbody.useGravity = true;
             other.attachedRigidbody.isKinematic = false;
 
-        opslot = false;
+            opslot = false;
+
+
     }
 }
