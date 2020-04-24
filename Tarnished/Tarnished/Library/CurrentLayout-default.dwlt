@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 113
+  controlID: 81
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 114
+  controlID: 82
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 115
+  controlID: 56
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AssetsHallway
+    - Assets/AssetsHallway/Scipts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/AssetsHallway
+  - Assets/AssetsHallway/Scipts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Documents\GitHub\Vr-Horror-escape-room\Tarnished\Tarnished
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 10}
-    m_SelectedIDs: 4c430000
-    m_LastClickedID: 17228
-    m_ExpandedIDs: 000000004043000000ca9a3b
+    m_SelectedIDs: 263e0000
+    m_LastClickedID: 15910
+    m_ExpandedIDs: 00000000f43d0000163e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000040430000
+    m_ExpandedIDs: 00000000f43d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: da2c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 2aedffff48edffffc0eefffff6efffff70fbffff344900004e490000164b0000
+      m_ExpandedIDs: c6faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.2863102, y: 1.8063614, z: -0.53568184}
+    m_Target: {x: -3.8990989, y: 1.3952923, z: -1.2759287}
     speed: 2
-    m_Value: {x: -0.2863102, y: 1.8063614, z: -0.53568184}
+    m_Value: {x: -3.8990989, y: 1.3952923, z: -1.2759287}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,13 +612,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.07209322, y: -0.7798745, z: 0.09144427, w: 0.6150244}
+    m_Target: {x: -0.10008185, y: 0.8179706, z: -0.14987785, w: -0.5463238}
     speed: 2
-    m_Value: {x: 0.072229624, y: -0.7789438, z: 0.09133517, w: 0.61618775}
+    m_Value: {x: -0.10089993, y: 0.81773454, z: -0.15110275, w: -0.5461661}
   m_Size:
-    m_Target: 1.1853042
+    m_Target: 2.9853039
     speed: 2
-    m_Value: 1.1853042
+    m_Value: 2.685304
   m_Ortho:
     m_Target: 0
     speed: 2
